@@ -1,0 +1,8 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Design_Pattern\bin\Debug\Design_Pattern.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Design_Pattern\bin\Debug\Design_Pattern.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Design_Pattern\bin\Debug\Design_Pattern.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Design_Pattern\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Design_Pattern\obj\Debug\Design_Pattern.Properties.Resources.resources
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Design_Pattern\obj\Debug\Singleton.csproj.GenerateResource.Cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Design_Pattern\obj\Debug\Design_Pattern.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Design_Pattern\obj\Debug\Design_Pattern.pdb

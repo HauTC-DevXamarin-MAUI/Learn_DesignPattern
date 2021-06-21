@@ -1,0 +1,9 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\bin\Debug\Adapter.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\bin\Debug\Adapter.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\obj\Debug\Adapter.Form1.resources
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\obj\Debug\Adapter.Properties.Resources.resources
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\obj\Debug\Adapter.csproj.GenerateResource.Cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\obj\Debug\Adapter.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\obj\Debug\Adapter.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
