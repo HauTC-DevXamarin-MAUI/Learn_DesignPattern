@@ -1,0 +1,9 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\bin\Debug\Proxy.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\bin\Debug\Proxy.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\obj\Debug\Proxy.Form1.resources
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\obj\Debug\Proxy.Properties.Resources.resources
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\obj\Debug\Proxy.csproj.GenerateResource.Cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\obj\Debug\Proxy.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Proxy\obj\Debug\Proxy.pdb

@@ -27,6 +27,7 @@ namespace Adapter
                 textBox1.Text = dialog.FileName;
 
                 AdapterClass adapter = new AdapterClass();
+
                 StreamReader sr = new StreamReader(dialog.FileName);
                 List<string> danhSach = new List<string>();
                 string line;
