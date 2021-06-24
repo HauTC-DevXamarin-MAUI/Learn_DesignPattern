@@ -5,7 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Adapter
-{
+{// hiểu nôm na: xd, mở rộng  các lớp, các phương thức cũ để thành cái mới phù hợp vs yêu cầu dựa trên cái cũ
+    //Tái sd giao diện cũ, hạn chế, giảm thiểu viết lại code
     class AdapterClass
     {
         CoreClass core = new CoreClass();

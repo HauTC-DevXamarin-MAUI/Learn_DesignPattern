@@ -1,0 +1,9 @@
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\bin\Debug\Prototype.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\bin\Debug\Prototype.pdb
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\obj\Debug\Prototype.Form1.resources
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\obj\Debug\Prototype.Properties.Resources.resources
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\obj\Debug\Prototype.csproj.GenerateResource.Cache
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\obj\Debug\Prototype.exe
+C:\Users\CongHau\Desktop\Learn_Code\C#\Design_Pattern\Prototype\obj\Debug\Prototype.pdb
